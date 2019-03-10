@@ -3,8 +3,8 @@
 	<channel>
 		<title> - Miscellaneous</title>
 		<description>Posts categorized as 'miscellaneous'</description>
-		<link></link>
-		<atom:link href="/feed.category.xml" rel="self" type="application/rss+xml" />
+		<link>https://github.com/mostafahosseinidb/playblog.git</link>
+		<atom:link href="https://github.com/mostafahosseinidb/playblog.git/feed.category.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

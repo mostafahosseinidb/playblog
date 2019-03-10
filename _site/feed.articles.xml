@@ -3,8 +3,8 @@
 	<channel>
 		<title> - Articles</title>
 		<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-		<link></link>
-		<atom:link href="/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<link>https://github.com/mostafahosseinidb/playblog.git</link>
+		<atom:link href="https://github.com/mostafahosseinidb/playblog.git/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
@@ -25,8 +25,8 @@
 
 </description>
 				<pubDate>Sun, 10 Mar 2019 01:41:06 -0600</pubDate>
-				<link>/jekyll/update/2019/03/10/welcome-to-jekyll.html</link>
-				<guid isPermaLink="true">/jekyll/update/2019/03/10/welcome-to-jekyll.html</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/jekyll/update/2019/03/10/welcome-to-jekyll.html</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/jekyll/update/2019/03/10/welcome-to-jekyll.html</guid>
 			</item>
 			
 		
@@ -49,8 +49,8 @@
 
 </description>
 				<pubDate>Wed, 27 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/27/welcom-to-jek</link>
-				<guid isPermaLink="true">/2019/02/27/welcom-to-jek</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</guid>
 			</item>
 			
 		
@@ -73,8 +73,8 @@
 
 </description>
 				<pubDate>Wed, 27 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/27/welcom-to-jek</link>
-				<guid isPermaLink="true">/2019/02/27/welcom-to-jek</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</guid>
 			</item>
 			
 		
@@ -97,8 +97,8 @@
 
 </description>
 				<pubDate>Wed, 27 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/27/welcom-to-jek</link>
-				<guid isPermaLink="true">/2019/02/27/welcom-to-jek</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/27/welcom-to-jek</guid>
 			</item>
 			
 		
@@ -121,8 +121,8 @@
 
 </description>
 				<pubDate>Tue, 26 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/30/msoi</link>
-				<guid isPermaLink="true">/2019/02/30/msoi</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</guid>
 			</item>
 			
 		
@@ -145,8 +145,8 @@
 
 </description>
 				<pubDate>Tue, 26 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/30/msoi</link>
-				<guid isPermaLink="true">/2019/02/30/msoi</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</guid>
 			</item>
 			
 		
@@ -169,8 +169,8 @@
 
 </description>
 				<pubDate>Tue, 26 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/30/msoi</link>
-				<guid isPermaLink="true">/2019/02/30/msoi</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/30/msoi</guid>
 			</item>
 			
 		
@@ -193,8 +193,8 @@
 
 </description>
 				<pubDate>Mon, 25 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/28/welcome-to-jekyll</link>
-				<guid isPermaLink="true">/2019/02/28/welcome-to-jekyll</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/28/welcome-to-jekyll</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/28/welcome-to-jekyll</guid>
 			</item>
 			
 		
@@ -217,8 +217,8 @@
 
 </description>
 				<pubDate>Mon, 25 Feb 2019 03:05:05 -0600</pubDate>
-				<link>/2019/02/28/welcome-to-jekyll</link>
-				<guid isPermaLink="true">/2019/02/28/welcome-to-jekyll</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/2019/02/28/welcome-to-jekyll</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/2019/02/28/welcome-to-jekyll</guid>
 			</item>
 			
 		
@@ -235,8 +235,8 @@
 قلتذش قل ثشتهتشهثخ ذشتثذ شثتلهشخثقل&lt;/p&gt;
 </description>
 				<pubDate>Sat, 25 Feb 1397 03:13:17 -0550</pubDate>
-				<link>/1397/02/25/welcome-to-jekyll</link>
-				<guid isPermaLink="true">/1397/02/25/welcome-to-jekyll</guid>
+				<link>https://github.com/mostafahosseinidb/playblog.git/1397/02/25/welcome-to-jekyll</link>
+				<guid isPermaLink="true">https://github.com/mostafahosseinidb/playblog.git/1397/02/25/welcome-to-jekyll</guid>
 			</item>
 			
 		
