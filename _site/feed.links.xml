@@ -3,8 +3,8 @@
 	<channel>
 		<title> - Links</title>
 		<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-		<link>/playblog.git</link>
-		<atom:link href="/playblog.git/feed.links.xml" rel="self" type="application/rss+xml" />
+		<link>/playblog/</link>
+		<atom:link href="/playblog//feed.links.xml" rel="self" type="application/rss+xml" />
 		
 			
 		
