@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<header>
+  <h2>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم</h2>
+  <div class="time">
+    {{ page.date | date: "%a, %b %d, %y" }}
+    توسط <a href="">
+      {% if page.author %}
+      {{ page.author }}
+      {% else %}
+      admin
+      {% endif %}</a>
+   
+  </div>
+</header>
+<div>
+  <img src="/assets/img/{{ page.img_name }}" alt="">
+</div>
+<div class="column_large_9">
+  {{ content }}
+
+</div>
+
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+{%- include head.html -%}
+<script src="/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+
+<body>
+  {%- include header.html -%}
+
+
+
+
+
+  <div class="main column_large_8 column_large_push_2 clearfix">
+    <section class="all_news search_box" id="search_box">
+      <header class="margin_top">
+        <h3>
+          نتایج جستجو
+        </h3>
+      </header>
+      <div class="row" id="results-container">
+
+
+
+      </div>
+
+    </section>
+  </div>
+  <div class="main" id="main_div">
+    {{content}}
+  </div>
+
+  {%- include footer.html -%}
+</body>
+<script src="simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: './search.json',
+    searchResultTemplate: '   <div class="column_large_4">  <figure class="news_box">            <div class="img">              <img src="/assets/img/{img_name}" alt="">            </div>            <span class="tag">{tags}</span>            <figcaption>              <h2>{title}</h2>              <span class="time">{date}</span>              <p>                {content}              </p>              <a href="{url}" class="readmore">ادامه مطلب</a>            </figcaption>          </figure>        </div>'
+  })
+
+</script>
+
+</html>
